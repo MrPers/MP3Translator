@@ -1,1 +1,1 @@
-A small script for voice-over translations from American English and British English to Russian
+This is a script that creates spoken translations of words from American and British English into Russian. It uses Google Text-to-Speech (gTTS) to generate audio files with the pronunciation of words in both English and their Russian translations, then combines them into one MP3 file for each word.
